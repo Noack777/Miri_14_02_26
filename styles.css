@@ -74,7 +74,7 @@ body {
 
 .progress {
   position: fixed;
-  top: 80px;
+  top: 60px;
   left: 50%;
   transform: translateX(-50%);
   width: min(95vw, 520px);
