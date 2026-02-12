@@ -33,6 +33,13 @@ body {
   z-index: -2;
 }
 
+.bg.final-mode {
+  background: linear-gradient(135deg, #1a0f2d, #0a0516);
+  background-size: 200% 200%;
+  animation-duration: 28s;
+  filter: brightness(0.8) saturate(1.05);
+}
+
 @keyframes bgShift {
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
