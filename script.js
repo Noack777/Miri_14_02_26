@@ -354,7 +354,7 @@ function renderFinalScreen() {
       Entre canciones mágicas, palabras inesperadas y nuestros pequeños 'ranchos',<br>
       descubrí que donde tú estás… es donde quiero estar.<br><br>
       Y si pudiera elegir todos los días, siempre te elegiría a ti.<br><br>
-      Te amo ❤️<br><br>
+      Te quiero ❤️<br><br>
       Feliz 14 de febrero, preciosa 💘
     </div>
     <div class="options" style="max-width:420px">
